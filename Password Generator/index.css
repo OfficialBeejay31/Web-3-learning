@@ -8,9 +8,8 @@ body {
     background: lightcoral;
     border-radius: 10px;
     height: 30px;
-    margin: 10px 0;
+    margin: 10px auto;
     max-width: 100px;
-    margin: auto;
 }
 
 #orange {
@@ -18,7 +17,7 @@ body {
     border-radius: 10px;
     height: 30px;
     max-width: 100px;
-    margin: auto;
+    margin:10px auto;
 }
 button {
     margin-top: 20px;
