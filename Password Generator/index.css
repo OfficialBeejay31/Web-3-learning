@@ -9,12 +9,14 @@ body {
     border-radius: 10px;
     height: 30px;
     margin: 10px 0;
+    max-width: 100px;
 }
 
 #orange {
     background: lightsalmon;
     border-radius: 10px;
     height: 30px;
+    max-width: 100px;
 }
 button {
     margin-top: 20px;
